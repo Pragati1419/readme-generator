@@ -1,6 +1,3 @@
-
-
-
 ## Description
 The CLI README.md Generator is a powerful tool that streamlines the process of creating professional and informative README.md files for your projects. By gathering project details such as title, description, GitHub username, email address, license type, installation instructions, usage, and contribution guidelines, this CLI program empowers developers to generate polished and well-structured documentation effortlessly.
 
@@ -17,11 +14,13 @@ The CLI README.md Generator is a powerful tool that streamlines the process of c
 
 
 ## Installation
-Follow these simple steps to start using the CLI README.md Generator:
+Follow these simple steps to start using the CLI readme-wizard.
 1. Download or clone this repository to your local machine.
 2. Navigate to the project directory using your terminal or command prompt.
 3. Install the necessary dependencies by running the command `npm install`.
 4. Launch the CLI program by executing `node index` in your terminal.
+5. The CLI program will prompt a series of questions for you, after completion, a README.md file should appear in your project directory.
+
 
 ## Usage
 As a developer, you understand the importance of a clear and well-structured README.md file for your projects. However, crafting one from scratch can be time-consuming. With the CLI README.md Generator, you can now expedite this process and focus your valuable time on more critical tasks.
@@ -45,3 +44,6 @@ This project is brought to you with passion and dedication by [Pragati1419](http
 ## Questions
 If you have any questions or need further assistance, feel free to reach out via email at [pragatikri31@gmail.com](mailto:your.email@example.com).
 
+
+## Deployed 
+You can find a deployed version of this CLI README.md generator at https://www.npmjs.com/package/readme-wizard.
